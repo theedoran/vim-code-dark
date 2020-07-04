@@ -5,6 +5,9 @@
 
 *This colorscheme does also support 256 and 8/16 color terminals. See [installation instructions](#installation) step 3.*
 
+## Fork
+This fork provides slight color changes.
+
 ## Screenshots
 
 ### gVim / modern terminals
