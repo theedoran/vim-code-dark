@@ -35,11 +35,11 @@ This fork provides slight color changes.
 Simply as any other Vim plugins: download manually or follow the standard procedure of your plugin manager:
 *  [Vundle](https://github.com/gmarik/vundle)
  ```
- Plugin 'tomasiser/vim-code-dark'
+ Plugin 'theedoran/vim-code-dark'
  ```
 *  [vim-plug](https://github.com/junegunn/vim-plug)
 ```
-Plug 'tomasiser/vim-code-dark'
+Plug 'theedoran/vim-code-dark'
 ```
 *  manual
 
