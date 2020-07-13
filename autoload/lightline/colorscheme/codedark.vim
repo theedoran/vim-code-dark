@@ -16,8 +16,8 @@ let s:term_grey = 236
 
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
-let s:p.normal.left = [ [ '#262626', '#608B4E', s:term_black, s:term_green, 'bold' ], [ '#608B4E', '#262626', s:term_green, s:term_black ] ]
-let s:p.normal.right = [ [ '#262626', '#608B4E', s:term_black, s:term_green ], [ '#D4D4D4', '#3C3C3C', s:term_white, s:term_grey ], [ '#608B4E', '#262626', s:term_green, s:term_black ] ]
+let s:p.normal.left = [ [ '#262626', '#72C979', s:term_black, s:term_green, 'bold' ], [ '#72C979', '#262626', s:term_green, s:term_black ] ]
+let s:p.normal.right = [ [ '#262626', '#72C979', s:term_black, s:term_green ], [ '#D4D4D4', '#3C3C3C', s:term_white, s:term_grey ], [ '#72C979', '#262626', s:term_green, s:term_black ] ]
 let s:p.inactive.right = [ [ '#262626', '#569CD6', s:term_black, s:term_blue], [ '#D4D4D4', '#3C3C3C', s:term_white, s:term_grey ] ]
 let s:p.inactive.left = s:p.inactive.right[1:]
 " her
